@@ -1,6 +1,6 @@
-# CGEM Presentation Template
+# Compositional Data Analysis Notes
 
 Quick start:
 ```console
-latexmk -pdflua presentation.tex
+latexmk -pdflua notes.tex
 ```
