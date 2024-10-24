@@ -2,5 +2,5 @@
 
 Quick start:
 ```console
-latexmk -pdflua notes.tex
+latexmk -pdflua aitchison.tex
 ```
